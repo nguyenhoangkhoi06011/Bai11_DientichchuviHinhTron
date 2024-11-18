@@ -8,7 +8,7 @@ int main()
 	cout << "pi=3,14\n";
 	pi = 3, 14;
 	chuvi = 2 * pi * bankinh;
-	dientich = pi * (bankinh * bankinh);
+	dientich = pi * bankinh * bankinh;
 
 	cout << "chu vi:" << chuvi << endl;
 	cout << "dien tich:" << dientich << endl;
